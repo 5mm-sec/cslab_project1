@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="audioRecyclerview" type="id" />
+    <item name="model_imageView7" type="id" />
+    <item name="LSTMtime_textView" type="id" />
+    <item name="info1_button2" type="id" />
+    <item name="info1_button7" type="id" />
+    <item name="DNNresult_textView" type="id" />
+    <item name="model_imageView2" type="id" />
+    <item name="BERTresult_textView" type="id" />
+    <item name="DNNtime_textView" type="id" />
+    <item name="model_imageView" type="id" />
+    <item name="LSTMresult_textView" type="id" />
+    <item name="BERTtime_textView" type="id" />
+    <item name="info1_button" type="id" />
+    <item name="BackBtn1" type="id" />
+    <item name="recyclerView2" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="imageView3" type="id" />
+    <item name="example" type="id" />
+    <item name="imageView8" type="id" />
+    <item name="imageView16" type="id" />
+</resources>
